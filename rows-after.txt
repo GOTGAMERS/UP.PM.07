@@ -1,0 +1,7 @@
+  table_name  | rows | id_sum | amount_sum 
+--------------+------+--------+------------
+ clients      |    4 |     10 |     100.00
+ masters      |    4 |     10 |     100.00
+ appointments |    4 |     10 |     100.00
+(3 rows)
+
